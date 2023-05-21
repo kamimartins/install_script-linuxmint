@@ -1,0 +1,24 @@
+categorias others
+- repositorio de terceiros (PPA)
+    ppa:agornostal/ulauncher
+    ppa:fish-shell/release-3
+- github
+    bat (better cat)
+    photoGIMP
+    lutris
+    heroic games launcher
+    nerd-fonts
+- manual
+wine
+vscode (deb)
+discord[
+omf theme*
+
+to configure
+- nala
+- fish shell
+echo /usr/local/bin/fish | sudo tee -a /etc/shells # add path fish to shells 
+chsh -s /usr/local/bin/fish # set up fish to default shell 
+sudo apt install fish -y ***
+
+

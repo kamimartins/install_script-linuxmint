@@ -1,0 +1,9 @@
+git
+exa
+tilix
+htop
+uget
+neovim
+nala*
+cpu-x
+
